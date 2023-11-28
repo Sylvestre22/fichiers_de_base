@@ -13,10 +13,10 @@
     "body-parser": "^1.18.1",
     "crypto": "^1.0.1",
     "express": "^4.15.4",
-    "firebase": "^4.4.0",
-    "firebase-admin": "^5.2.1",
+    "firebase": "^7.14.0",
+    "firebase-admin": "^8.0.0",
     "node-fetch": "^1.7.3",
-    "node-geocoder": "^3.20.0",
+    "node-geocoder": "^4.0.0",
     "node-wit": "^4.3.0",
     "request": "^2.82.0",
     "requestify": "^0.2.5"
